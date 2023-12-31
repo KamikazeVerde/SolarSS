@@ -80,7 +80,8 @@ def render_frame(impl, window, font):
         imgui.begin("Changelog - v0.8")
         imgui.text("""SolarSS 0.8-2
                    
-[+] Fixato il flag false di defender a causa delle librerie""")
+[+] Fixato il flag false di defender a causa delle librerie
+[-] .exe Assoluto""")
         imgui.end()
 
     if active["Tools"]:
