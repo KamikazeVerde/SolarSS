@@ -1,9 +1,7 @@
 # SolarSS
 ### ScreenShare Helper | Python | ImGui
 - How does it works?
-  Using the .exe file in suspect pc will open you a GUI where u can
-  choose to install various tools and manage some folders and get some
-  cmds like journal and other utilities.
+  Unzip the .zip release in the suspect pc and start SolarSS.exe! make sure _internal folder and solarss.exe are in the same dir
 ---------------------------------------------------------
 ### ChangeLog 0.8-2
 - Fixed FALSE FLAG Defender due to Libraries
