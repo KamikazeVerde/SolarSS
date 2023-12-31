@@ -1,5 +1,5 @@
 # SolarSS
-IMPORTANT! RELEASE FLAGS WDF, DONT USE TOOL BEFORE I UPDATE TOOL TO MAKE IT NOT FLAG WDF
+UPDATED RELEASE WITH VENV VERSION
 ### ScreenShare Helper | Python | ImGui
 - How does it works?
   Unzip the .zip release in the suspect pc and start SolarSS.exe! make sure _internal folder and solarss.exe are in the same dir
