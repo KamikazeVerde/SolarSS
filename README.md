@@ -12,4 +12,8 @@
 - Now in auto-py-to-exe just add as binaries glfw3.dll and msvcr110.dll
 - Now set console and one file and compile!
 ----------------------------------------------------------
+### Special thanks
+- Dear ImGui Team for making this awesome gui 
+- ImGui Python Port team for making this awesome lib 
+----------------------------------------------------------
 ### Made by Creeper215 (KamikazeVerde)
