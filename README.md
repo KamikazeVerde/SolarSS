@@ -1,7 +1,9 @@
 # SolarSS
 ### ScreenShare Helper | Python | ImGui
 - How does it works?
-  You just put it into Suspect's PC and start the program!
+  Using the .exe file in suspect pc will open you a GUI where u can
+  choose to install various tools and manage some folders and get some
+  cmds like journal and other utilities.
 ### ChangeLog 0.8
 - Added Linux Test Compatibility for X11 and WayLand
 - Fixed .exe conversion, error due to missing GLFW binaries
@@ -15,5 +17,9 @@
 ### Special thanks
 - Dear ImGui Team for making this awesome gui 
 - ImGui Python Port team for making this awesome lib 
+----------------------------------------------------------
+### Important Notes
+- Language only in italian (r.i.p)
+- But you can translate urself :D
 ----------------------------------------------------------
 ### Made by Creeper215 (KamikazeVerde)
