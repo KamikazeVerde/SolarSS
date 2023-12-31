@@ -4,6 +4,7 @@
   Using the .exe file in suspect pc will open you a GUI where u can
   choose to install various tools and manage some folders and get some
   cmds like journal and other utilities.
+---------------------------------------------------------
 ### ChangeLog 0.8
 - Added Linux Test Compatibility for X11 and WayLand
 - Fixed .exe conversion, error due to missing GLFW binaries
