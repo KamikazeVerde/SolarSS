@@ -26,7 +26,7 @@ active = {
 # SolarSS made by Creeper215.
                                                                
 os.system('cls')
-print(Colorate.Horizontal(Colors.yellow_to_green, "SolarSS 0.8 | by Creeper215\n"))
+print(Colorate.Horizontal(Colors.yellow_to_green, "SolarSS 0.8-2 | by Creeper215\n"))
 time.sleep(2)
 
 opened_state = True
@@ -78,9 +78,9 @@ def render_frame(impl, window, font):
 
     if active["Changelog"]:
         imgui.begin("Changelog - v0.8")
-        imgui.text("""SolarSS 0.8
+        imgui.text("""SolarSS 0.8-2
                    
-[+] Fixata la conversione .exe""")
+[+] Fixato il flag false di defender a causa delle librerie""")
         imgui.end()
 
     if active["Tools"]:
