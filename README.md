@@ -7,6 +7,7 @@ UPDATED RELEASE WITH VENV VERSION
 ### ChangeLog 0.8-2
 - Fixed FALSE FLAG Defender due to Libraries
 - Deleted absolute exe
+- Updated release with VENV version
 ---------------------------------------------------------
 ### Someone called the release a "rat" so, here is how to compile .py to .exe (updated tut)
 - Do pip install auto-py-to-exe
