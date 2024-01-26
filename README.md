@@ -9,7 +9,7 @@ UPDATED RELEASE WITH VENV VERSION
 - Deleted absolute exe
 - Updated release with VENV version
 ---------------------------------------------------------
-### Someone called the release a "rat" so, here is how to compile .py to .exe (updated tut)
+### here is how to compile .py to .exe (updated tut)
 - Do pip install auto-py-to-exe
 - Now find these 2 dlls in ur python installation: glfw3.dll and msvcr110.dll
 - Now in auto-py-to-exe just add as binaries glfw3.dll and msvcr110.dll
