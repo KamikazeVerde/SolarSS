@@ -2,7 +2,7 @@
 UPDATED RELEASE WITH VENV VERSION
 ### ScreenShare Helper | Python | ImGui
 - How does it works?
-  Unzip the .zip release in the suspect pc and start SolarSS.exe! make sure _internal folder and solarss.exe are in the same dir
+  Unzip the .zip release in the suspect pc and start start.bat! 
 ---------------------------------------------------------
 ### ChangeLog 0.8-2
 - Fixed FALSE FLAG Defender due to Libraries
